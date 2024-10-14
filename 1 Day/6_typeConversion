@@ -1,0 +1,22 @@
+# type conversion  :  automatic conversion which is implicit conversion
+# casting  need to tell to convert manully
+
+# type conversion  
+print ("type conversion ")
+a =2
+b = 4.2
+sum =a+b
+print (type(a))
+print (type(b))
+print (type(sum))
+print ("sum of ",sum)
+
+# type casting  
+print ("type conversion ")
+a =int("2")
+b = 4.2
+sum =a+b
+print (type(a))
+print (type(b))
+print (type(sum))
+print ("sum of ",sum)

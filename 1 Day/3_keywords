@@ -1,0 +1,36 @@
+""""
+use can not use as idetfier or not create as variable
+ and
+ if 
+ elif
+ else
+ in
+ as
+ except,
+ is
+ assert
+ finally
+ lambda
+ try
+ break
+ True
+ Fasle
+ nonlocal
+ with
+ class
+ for 
+ None
+ while
+ def 
+ global
+ or
+ del
+ pass
+ import
+ raise
+ return
+ continue
+ from
+ not
+ yield
+"""
