@@ -6,5 +6,5 @@ print("Find f index " + str(Course.find('f')))
 print("Find B index " + str(Course.find('B')))
 print("count of i is " + str(Course.count('i')))
 print('Python' in Course )
-
+print('Kabir' in Course )
 
