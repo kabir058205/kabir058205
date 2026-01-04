@@ -14,7 +14,7 @@
 - 📍 Based in *Sweden 🇸🇪*, exploring opportunities in Sweden and EU  
 
 
-Throughout my career, I with over 16 years of proven expertise across Banking, 
+Throughout my career, I with over 10 years of proven expertise across Banking, 
 Finance, Retail, and Insurance sectors. Skilled in Azure Databricks, DBT, Snowflake, Oracle, SQL, IBM 
 Datastage, Abinito ETL,IDMC Nice Actimize, Erwin and Data Warehousing, with expertise in building 
 end-to-end data pipelines, implementing Azure Delta Lake architectures, and ensuring data governance 
@@ -36,7 +36,7 @@ and integrity. Strong ability to translate business requirements into robust, pr
 
 
 
-- *Databricks Certified Data Engineer Professional *  
+- *Databricks Certified Data Engineer Professional *  https://credentials.databricks.com/profile/kabirsharanchandra566495/wallet
 
 - *Oracle Certified OCA & OCP*   
 
